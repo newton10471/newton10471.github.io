@@ -1,0 +1,5 @@
+name: Matt Newton's Blog
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+google_analytics_id: 
