@@ -6,7 +6,7 @@ tagline:
 tags : [code, development]
 ---
 
-Here's a simple test of code snippet formatting:
+Here's a simple test of code snippet formatting via jekyll/pygments:
 
 {% highlight ruby linenos %}
 def show
